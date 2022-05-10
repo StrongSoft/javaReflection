@@ -1,10 +1,12 @@
+package field;
+
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Main {
+public class FirstMain {
 
   public static void main(String[] args)
       throws IllegalAccessException, InstantiationException, InvocationTargetException {
